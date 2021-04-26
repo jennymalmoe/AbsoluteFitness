@@ -1,0 +1,26 @@
+#footer {
+    background-color:#774936;
+    color: #fff;
+    border-top: 60px;
+    border-bottom: 60px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 17px;
+    line-height: 7px;
+    text-align: center;
+    color: #FFF;
+    background-color: #EDC4B3;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #C38E70;
+}
