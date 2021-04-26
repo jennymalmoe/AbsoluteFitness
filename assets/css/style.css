@@ -1,3 +1,38 @@
+#nav-bar {
+    background-color: #774936;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+
+.navbar-nav li a {
+    color: #FFF;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.navbar-nav li a:hover {
+background: #EDC4B3;
+}
+
+
+
+
+
+
+
+
+
+
+
 #footer {
     background-color:#774936;
     color: #fff;
