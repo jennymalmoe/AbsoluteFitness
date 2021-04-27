@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #EDC4B3;
 }
 
 
@@ -12,6 +13,8 @@ body {
 
 .navbar-brand {
     color: #fff;
+    font-weight: bold;
+    margin-left: 20px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -51,6 +54,7 @@ background: #EDC4B3;
 .alert {
 font-size: 13px;
 border-radius: 0;
+margin-bottom: 0;
 }
    
 
@@ -89,6 +93,7 @@ border-radius: 0;
     font-size: 20px;
 }
 
+
 /* Jumbotron */
 
 .jumbotron-header {
@@ -110,14 +115,15 @@ color: #fff;
 /* Usp */
 
 .usp-container {
-
+    text-align: center;
 }
 
 
 /* Reasons */
 
 .reasons-container {
-
+text-align: center;
+margin-bottom: 20px;
 }
 
 
@@ -160,9 +166,19 @@ color: #fff;
     width: 300px;
     border-radius: 30px;
     color: #fff;
-    background-color: #ffc40f
+    background-color: #ffc40f;
+}
+
+.btn-cta:hover,
+.btn-cta:active,
+.btn-cta:focus,
+.btn-cta:active:focus {
+    background-color: rgb(248, 163, 5);
+    border-color: #ffc40f;
 
 }
+
+
 
 
 
