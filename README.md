@@ -152,6 +152,8 @@ Tools:
 * [Coolors](https://coolors.co/) - color scheme
 * [Font Awsome](https://fontawesome.com/) - used for footer icons
 * [Imgur](https://imgur.com/) - to create an url to my color scheme image.
+* [Imgur](https://css-tricks.com/) - used to the firstpage background image to cover the entire browser window.
+
 
 Editors:
 
