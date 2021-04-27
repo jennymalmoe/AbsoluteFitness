@@ -1,11 +1,29 @@
+/* General */
 
-#nav-bar {
-    background-color: #774936;
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Navbar */
+.navbar {
+    background-color: #C38E70;
 }
 
 .navbar-brand {
     color: #fff;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
+
+
+.navbar-brand:hover {
+    color: #fff;
+    background: #EDC4B3;
+}
+
 
 .nav-link {
     color: #fff;
@@ -24,8 +42,68 @@
 background: #EDC4B3;
 }
 
+.navbar-toggler {
+    color: #fff;
+}
 
 
+/* Alert */
+.alert {
+font-size: 13px;
+}
+   
+
+/* Call out */
+
+.callout-container {
+
+}
+
+
+/* Usp */
+
+.usp-container {
+
+}
+
+
+/* Reasons */
+
+.reasons-container {
+
+}
+
+
+
+
+
+/* Footer */
+#footer {
+    background-color:#C38E70;
+    color: #fff;
+    border-top: 60px;
+    border-bottom: 60px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 17px;
+    line-height: 7px;
+    text-align: center;
+    color: #FFF;
+    background-color: #E6B8A2;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #EDC4B3;
+}
 
 /* Modal */
 
@@ -55,40 +133,5 @@ background: #EDC4B3;
 .claim-btn:active,
 .claim-btn:focus,
 .claim-btn:active:focus {
-    background: #EDC4B3;
-}
-
-
-
-
-
-
-
-
-
-#footer {
-    background-color:#C38E70;
-    color: #fff;
-    border-top: 60px;
-    border-bottom: 60px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 17px;
-    line-height: 7px;
-    text-align: center;
-    color: #FFF;
-    background-color: #E6B8A2;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
     background: #EDC4B3;
 }
