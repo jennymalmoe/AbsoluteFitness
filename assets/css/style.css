@@ -21,17 +21,14 @@ body {
     -o-transition: all 0.35s ease-in-out;
 }
 
-
 .navbar-brand:hover {
     color: #fff;
     background: #EDC4B3;
 }
 
-
 .nav-link {
     color: #fff;
 }
-
 
 .navbar-nav li a {
     color: #FFF;
@@ -51,6 +48,7 @@ background: #EDC4B3;
 
 
 /* Alert */
+
 .alert {
 font-size: 13px;
 border-radius: 0;
@@ -72,7 +70,6 @@ margin-bottom: 0;
     justify-content: center;
     position: relative;
 }
-
 
 .lead {
     margin: 30px;
@@ -127,15 +124,17 @@ margin-bottom: 20px;
 }
 
 
-
-
-
 /* Footer */
+
 #footer {
     background-color:#C38E70;
     color: #fff;
     border-top: 60px;
     border-bottom: 60px;
+}
+
+.social-links {
+    margin-bottom: 25px;
 }
 
 .social-links li a i {
@@ -177,9 +176,6 @@ margin-bottom: 20px;
     border-color: #ffc40f;
 
 }
-
-
-
 
 
 /* Modal */
