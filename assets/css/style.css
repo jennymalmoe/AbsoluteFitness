@@ -27,6 +27,39 @@ background: #EDC4B3;
 
 
 
+/* Modal */
+
+.modal-header{
+    background-color: #C38E70;
+}
+
+#cta-title {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.claim-btn {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #C38E70;
+    width: 200px;
+    height: 40px;
+    letter-spacing: 1px;
+}
+
+.claim-btn:hover,
+.claim-btn:active,
+.claim-btn:focus,
+.claim-btn:active:focus {
+    background: #EDC4B3;
+}
+
+
+
 
 
 
@@ -34,7 +67,7 @@ background: #EDC4B3;
 
 
 #footer {
-    background-color:#774936;
+    background-color:#C38E70;
     color: #fff;
     border-top: 60px;
     border-bottom: 60px;
@@ -49,7 +82,7 @@ background: #EDC4B3;
     line-height: 7px;
     text-align: center;
     color: #FFF;
-    background-color: #EDC4B3;
+    background-color: #E6B8A2;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -57,5 +90,5 @@ background: #EDC4B3;
 }
 
 .social-links li a i:hover {
-    background: #C38E70;
+    background: #EDC4B3;
 }
