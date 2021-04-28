@@ -209,6 +209,9 @@ w3 osv
 * [W3C Markup Validator](https://validator.w3.org/) -
 * [W3C CSS Validator](https://validator.w3.org/) - 
 
+Well, anything that you identify and can't fix, you need to document in the README. That will demonstrate that you've tested your app and are aware of the things that still need to be fixed.
+
+
 ## **Deployment**
 
 ## **Credits**

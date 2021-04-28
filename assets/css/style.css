@@ -59,8 +59,20 @@ margin-bottom: 0;
 /* Call out */
 
 .callout-container {
-    height: 100vh;
+   
     background: url("../images/girl.png") no-repeat top left fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.classes-container {
+    background: url("../images/boxing.jpg") no-repeat top left fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -102,6 +114,7 @@ font-size: 100px;
 
 .jumbotron {
     background-color: rgba(129, 212, 233, 0.5);
+    margin-top: 20px;
 }
 
 .jumbotron small {
@@ -211,3 +224,25 @@ margin-bottom: 20px;
 
 
 
+
+.calloutclasses-container {
+    background: url("../images/boxing.jpg") fixed;
+    height: 100vh;
+    background-repeat: no-repeat;
+     background-position-x: center;
+     background-position-y: center;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     display: flex;
+     justify-content: left;
+     position: relative;
+}
+
+.jumbotron-classesheader {
+    color: #fff;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 150px;
+}
