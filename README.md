@@ -40,7 +40,7 @@ As a returning visitor (existing member, potential member with training skills/e
 
 **Project Goals**
 
-The purpose of this project is to *"build a static front-end site to present useful information to users, using all the technologies that you have learned about so far.
+The purpose of this project is to *"Build a website for a gym. ...Build a static front-end site to present useful information to users, using all the technologies that you have learned about so far.
 Data is presented in a way that helps users achieve their goals, e.g. learning about a product/service that they are interested in. The presentation of this data advances the site owner's goals, e.g. helps them market a product/service."*
 (*Code Institute Assessment Handbook*)
 
@@ -152,7 +152,8 @@ Tools:
 * [Coolors](https://coolors.co/) - color scheme
 * [Font Awsome](https://fontawesome.com/) - used for footer icons
 * [Imgur](https://imgur.com/) - to create an url to my color scheme image.
-* [Imgur](https://css-tricks.com/) - used to the firstpage background image to cover the entire browser window.
+* [CSS-Tricks](https://css-tricks.com/) - used to the firstpage background image to cover the entire browser window.
+* [Bootdey](https://www.bootdey.com/) - used create a schedule in Class page. 
 
 
 Editors:
