@@ -187,7 +187,21 @@ margin-bottom: 20px;
 .btn-cta:active:focus {
     background-color: rgb(248, 163, 5);
     border-color: #ffc40f;
+}
 
+.btn-membership {
+    font-weight: bold; 
+    width: 300px;
+    color: #fff;
+    background-color: #ffc40f;
+}
+
+.btn-membership:hover,
+.btn-membership:active,
+.btn-membership:focus,
+.btn-membership:active:focus {
+    background-color: rgb(248, 163, 5);
+    border-color: #ffc40f;
 }
 
 
@@ -223,8 +237,6 @@ margin-bottom: 20px;
 }
 
 
-
-
 .calloutclasses-container {
     background: url("../images/boxing.jpg") fixed;
     height: 100vh;
@@ -247,6 +259,30 @@ margin-bottom: 20px;
     margin-top: 150px;
 }
 
+/* Membership */
+
 .membership {
     text-align: center;
+    margin-top: 2%;
+}
+
+.tablecenter {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    display: block;
+}
+
+.carousel {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 5%;
 }
