@@ -1,10 +1,10 @@
 # Absolute Fitness
 
-[View live website here!](http://google.com)
+[View live website here!](#)
 
-[View GitHub repository here!](http://google.com)
+[View GitHub repository here!](#)
 
-This website is created to brand a fitness studio "Absolute Fitness" (referred to "The studio" in readme), to get new members and to keep existing members. The Absolute Fitness's USP is that they are differentiated from other studios because they offer foremost; women a more effective training method (short classes with extremely high-intensity training that produces results quickly, wich also can be used from home. 
+This website is created to brand a fitness studio "Absolute Fitness" (referred to "The studio" in readme), to get new members and to keep existing members. The Absolute Fitness's USP is that they are differentiated from other studios because they offer foremost; women a more effective training method (short classes with extremely high-intensity training that produces results quickly), wich also can be used from home. 
 
 Since many trainingstudios, due to Covid-19, have had a hard time keeping and attracting new members, this studio can stand out by offering remote classes and a covid-safe workout studio. 
 Also many women nowadays have a hard time finding time for exercise, this kind of training matches their needs as well.  
@@ -15,8 +15,6 @@ Also many women nowadays have a hard time finding time for exercise, this kind o
 
 **User stories** 
 
-As a [type of user], I want [an action] so that [a reason/a value]
-
 As a first time visitor I want to:    
 
 * learn about the studio so I can make a decision whether to be member or not. Does the studios serveces offers what I want and need. 
@@ -25,16 +23,14 @@ As a first time visitor I want to:
 * be able to get a free trial period to make a decision to buy a membership or not. It's common practice for studios to offer a free trial period. I might choose another studio if this one doensn't offer that.
 * find out how this studio stands out from the crowd (the studios USP's *better results in less time and remote training*), why should I choose "Absolute Fitness" instead of someone else? 
 
-As a returning visitor (existing member, potential member with training skills/experience, potential member with no training skills/experience ) I want to:
+As a returning visitor (existing member, potential member with training experience, potential member with no training experience) I want to:
 
 * find schedules, contact information and current events.
 * be able to easily navigate and find general information about prices, location, classes etc.
-* be presented with an attractive membership offer and/or a free trial. I need that to make a decision if this is something for me with no training exprerience.  
+* be presented with an attractive membership offer and/or a free trial. I need that to make a decision if this is something for me (especially returning visitors with no training exprerience).  
 * find out how this studio stands out from the crowd (the studios USP:s - better results in less time and remote training), why should I choose "Absolute Fitness" instead of someone else? 
 * be asured that this traing method is compateble to me. I don't want to buy a membership, and then find out it's out of my leauge.
-* be able to easily navigate and find general information about prices, location, classes etc.
-* be presented with an attractive membership offer or/and a free trial. I need that to make a decision if this is something for me with no training exprerience.
-* find out how this studio stands out from the crowd (the studios USP *better results in less time and remote training*), why should I choose "Absolute Fitness" instead of someone else? 
+
 
 ### Strategy 
 
@@ -52,85 +48,62 @@ Target audience: Women age 18-65 in the local area (as well as all over geograph
 
 **Customer Goals**
 
-Existing members - to access classes online.
-
-Potential members - learn more about "Absolute Fitness".
-
-Many women today have a hectic lifestyle. There's a need to make the most of your exercise and to get better results in less time. This site shows how "Absolute Fitness" offers these women a soulution for that.  
+Customer goals of the website is to get information about the studio and get a get a good idea of what it offers. Just as important is the feel the visitor gets about the sites/studios identity. It also allows the customer to take part of an offer. Lastly the costumer will see a professional and inspiring website with a mobile-first approach.
 
 ### Scope 
 
-which features and wich not
+* The site is designed to signal energy, high end and modern.  
 
-**Homepage:** The user should be able to get a clear understanding (lots of space and not too much information) of what the studio offers (method and prices) and how the user can take part of that (free trial, on demand, at the studio). 
+* CTA - call to action. The free trial button should draw user's attention immediatle (without the need to scroll) and gives the user the opportunity to try out the serveces. 
 
-The site is designed to signal energy, high end and modern. The homepage should draw user's attention immediatle (without the need to scroll). 
+* An attractive and brief discription of the studios classes. 
 
-The site will have a free trial button which gives the user the oppertunity to try out the serveces. 
+* Schedule.
 
-**Classes page:** The site will have an attractive and clear discription of the studios methods and classes. 
+* Prices.
 
-**Membership page:** Pricing, free trail button.
+* Covid alert banner. Points out the studios high level of sanitation service to make members feel safe. The alert is easy to change to current offers/event etc.
 
-**About us page** Information about Absolute Fitness. Able to contact the studio. Opening hours. 
+* Contact information and opening hours. 
 
-**Footer:** Social medialinks, address. 
+* Social medialinks.
 
 ### Structure
 
-Not too much information though. So the user doesn't leave the site and look for another site. 
+The website is designed to be consistent and intuitive, but at the same time eye catching. The most importent content is presented in the home page (offer and call to action as well). The business name is placed top-left corner, since users tend to read/look top-left corner moves down and right from there. 
+ 
+The site consists of four pages. A header that includes business name and a navigation bar and a footer with social media links will be consistent troughout all pages. 
 
-The website is designed to be consistent and intuitive, but at the same time eye catching. The most importent content is presented in the first page (offer as well). Logo on left because. 
-How users get to each screen and where they go after. site map and a flow chart.
-eller 
-How is your information logically grouped on yor site.  
+The site focuses on the offer and aims to attract their targetgroup by the style and images. Thats the fist thing a visitor sees. Then the goal is to visit the navlinks in the order they are set. Next step should be "Classes" where the visitor hopefully gets really interested and wants to be a member. Next step presents prices, that makes the vistor even more close to a decision. And lastly some contactinformation and the opportunity to contact the studio.
 
-The site consists of four pages. A header that includes logo and a navigation bar and a footer with social media links and copyright information will be consistent troughout all pages. 
-
-The homepage has a big image and a free trial button, text. 
-Classes page will have a ?
-Membership page will have pricelist
-About us page will have a contact form to fill in if they want to be contacted by the studio, text.
+The information is briefly presented, there isn't not too much information, just enough to make the visitor interested. The visitor will not feel overwhelming (so the user doesn't leave the site and look for another site).
 
 ### Skeleton 
 
-**Wireframes:** (Spara o döp alla till wireframe.pdf i assets/docs) I usually have a folder called docs or wireframes and upload the PDF into it.
-You can then link in your README to the Github repository url for that file
+**Wireframes:** 
 
 * [Mobile](https://github.com/jennymalmoe/Milestone-Project-1/tree/master/assets/docs/wireframes_mobile)
 * [Tablet](https://github.com/jennymalmoe/Milestone-Project-1/tree/master/assets/docs/wireframes_tablet)
 * [Desktop](https://github.com/jennymalmoe/Milestone-Project-1/tree/master/assets/docs/wireframes_desktop)
 
-Mockup how the finished site looks on different screen sizes.
 
-![mock_up1](assets/images/mock_up.png) 
+### Surface 
 
-### Surface (most concrete, what is seen? Finally, at the level of the surface, we ask the question what will the product actually look like?
-Graphics/Mockups/Color
-What colors?
-What typography are we going to put in place?
-What images? What design elements?
-Order of things
-Sites identity
-(content split into two areas tex)
-In other words, what will the final product look and feel like?)
-### Design Choices
+Design Choices
 
-**Colors:** 
-
-**Color Scheme**
-
-I want the site to represent highend and feminine values, with a clear message, and offer. The colors are soft, warm, inviting, encouraging, and modern. Characteristics that attract women. I added some accent colors (yellow and turqoise) that are used for emphasis my color scheme. These accent colors are bold and vivid and are used spairingly to create an eye catcing moment (used on call to actions buttons foremost). 
+**Color Scheme:** 
+The site represents highend and feminine values, with a clear message, and offer. The colors are soft, warm, inviting, encouraging, and modern. Characteristics that attract women. I added some accent colors (bright yellow and turquoise) that are used for emphasis my color scheme. These accent colors are bold and vivid and are used spairingly to create an eye catcing moment (used on call to actions buttons foremost). 
 
 ![color_scheme](assets/images/color_scheme.png) 
 
-**Typography**
-The Roboto font is the main font used throughout the site with Sans-serif as the fallback font. Roboto was developed to balance content density and reading comfort and is pretty subtle, it doesn´t take any attention away from the content.
+**Typography**:
+The Roboto font is the main font used throughout the site with Sans-serif as the fallback font. Roboto was developed to balance content density and reading comfort and is pretty subtle, it doesn´t take any attention away from the content. The site has focused to get the visitors attention by powerful headlines. If the headline hooks the visitor, they tend to continue to read the body, if it doesn't they’ll leave. The headline is catchy, in bigger and bolder font, short, inspiring and get the visitor emotionally engaged.  
 
-**Imagery**
-The homepage image is striking and modern. All images is of women in modern and positive environment. 
+**Imagery**:
+The sites images are all striking and modern. Most images is of women in a stylish and in a positive environment. 
 
-**Responsive design**
+**Icons**:
+Icons used at the first page to set the tone for the sites design approach. 
 
 ## Technologies Used
 
@@ -139,71 +112,45 @@ The homepage image is striking and modern. All images is of women in modern and 
 * CSS3 - for styling
 
 ### Frameworks
-* [Bootstrap "v4.6"](https://getbootstrap.com) - for style and making the website responsive. Also for I want to focus on mobile design first and foremost, and then desktop and tablets design. Also Bootstrap has a strong cross browser support. 
+* [Bootstrap "v4.1.3"](https://getbootstrap.com) - used for responsiveness and templates.  
 
 Tools:
 
 * [Git](https://git-scm.com/) - used for version control.
-* [Gitpod](https://www.gitpod.io/) - where the project was **developed**. Used for editing and hosting of my code and readme.md.
-* [GitHub](https://github.com/) -  used to **hosting** the project repository (and later deploy the website on GitHub pages)
-* [Github Pages](https://pages.github.com/) - hosting the webpage.
-* [Pixelmator](https://www.pixelmator.com/mac/) - used to make the logo.
-* [DesignEvo](https://www.designevo.com/) - used to make a logo.
-* [Coolors](https://coolors.co/) - color scheme
-* [Font Awsome](https://fontawesome.com/) - used for footer icons
-* [Imgur](https://imgur.com/) - to create an url to my color scheme image.
+* [Gitpod](https://www.gitpod.io/) - online IDE.
+* [GitHub](https://github.com/) -  hosting and version control.
+* [Github Pages](https://pages.github.com/) - hosting service.
+* [Pixelmator](https://www.pixelmator.com/mac/) - used to make the logo and map image.
+* [DesignEvo](https://www.designevo.com/) - used to make the logo.
+* [Coolors](https://coolors.co/) - used to establish color scheme.
+* [Font Awsome](https://fontawesome.com/) - used for footer icons.
+* [Imgur](https://imgur.com/) - to create url for images.
 * [CSS-Tricks](https://css-tricks.com/) - used to the firstpage background image to cover the entire browser window.
-* [Bootdey](https://www.bootdey.com/) - used create a schedule in Class page. 
-
+ 
 
 Editors:
 
 * [Balsamiq](https://balsamiq.com/) - used to create the wireframes.
-* [Google Fonts](https://fonts.google.com/) - used to import "Roboto" into the style.css file. 
+* [Google Fonts](https://fonts.google.com/) - used to import fonts.
 * [W3C Markup Validator](https://validator.w3.org/) -
 * [W3C CSS Validator](https://validator.w3.org/) - 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)  - used Lighthouse to check sites performance, accessibility, best practice and SEO. (and for browser) 
-* test for responsiveness - what?
-* [Am I Responsive](http://ami.responsivedesign.is/) - used for testing responsiveness of the site (och kanske mockup?).
+* [Unsplash](https://unsplash.com/) - Images used were obtained from Unsplash.
+* [Am I Responsive](http://ami.responsivedesign.is/) - used for testing responsiveness of the site and the mock up image.
+* [Google Maps](https://www.google.se/maps) - used for map image.
 
 ## Features
 
 ### Existing features
 
-**Naviagation** 
-
-Navigation bar exist on every page and allows users to feel "safe" and easily find what they are looking for. 
-
-**Logo**
-
-Header logo at the same place across all pages to make user feel consistency. Clicking the logo returns users to the homepage as expected. 
-
-**Button**
-Is the first thing that the user sees when opening the page. The purpose is to take an action and sign up for a free trial.
-
-**Footer**
-
-Footer, including social media icons, exists on every page.
-
-**Covid alert** 
-
-Covid alert banner exists on every page. And is easy to change to current offers/event etc.
-
-**Home**
-
-Img, call to action button (confirmation that your choice has been sent, few steps to sign up), logo, 
-**page2**
-**page3**
-
-### Features to implement in future
-
-Possibility to book classes online
-Possibility to buy membership online
-Video sample of some of the classes
+* CTA at homepage allows vistors to take part of a free trail offer by clicking the yellow button. 
+* Contact form in About Us page allows visitor to contact the studio by fill out the form. 
 
 
-## Resources 
-w3 osv
+### Features left to implement
+
+Possibility to by membership online, to watch video samples of some of the classes, to book classes online and take part of the classes directly on website. 
+
 
 ## **Testing**
 
@@ -217,12 +164,8 @@ Well, anything that you identify and can't fix, you need to document in the READ
 
 ## **Credits**
 
-content (me)
-media (img) tex shutterstock(i länk) som är en blabla)
-acknowledgements
-glöm inte typ om jag googlat ngt Google Maps
-
 
 * My mentor Adegbenga Adeye for helpfull feedback througout the project.
 * Fellow students on Slack for a helping hand when I've got stuck.
+* Google for help!
 
