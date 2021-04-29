@@ -7,10 +7,10 @@ body {
 
 
 /* Navbar */
+
 .navbar {
     background-color: #C38E70;
 }
-
 
 .navbar-brand {
     color: #fff;
@@ -40,7 +40,7 @@ body {
 }
 
 .navbar-nav li a:hover {
-background: #EDC4B3;
+    background: #EDC4B3;
 }
 
 .navbar-toggler {
@@ -51,16 +51,15 @@ background: #EDC4B3;
 /* Alert */
 
 .alert {
-font-size: 13px;
-border-radius: 0;
-margin-bottom: 0;
+    font-size: 13px;
+    border-radius: 0;
+    margin-bottom: 0;
 }
    
 
 /* Call out */
 
 .callout-container {
-   
     background: url("../images/girl.png") no-repeat top left fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -107,10 +106,10 @@ margin-bottom: 0;
 /* Jumbotron */
 
 .jumbotron-header {
-color: black;
-font-weight: bold;
-margin-bottom: 20px;
-font-size: 100px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 100px;
 }
 
 .jumbotron {
@@ -119,9 +118,10 @@ font-size: 100px;
 }
 
 .jumbotron small {
-font-size: 90%;
-color: #fff;
+    font-size: 90%;
+    color: #fff;
 }
+
 
 /* Usp */
 
@@ -133,8 +133,8 @@ color: #fff;
 /* Reasons */
 
 .reasons-container {
-text-align: center;
-margin-bottom: 70px;
+    text-align: center;
+    margin-bottom: 70px;
 }
 
 
@@ -238,6 +238,7 @@ margin-bottom: 70px;
     background: #EDC4B3;
 }
 
+/* Classes img */
 
 .calloutclasses-container {
     background: url("../images/boxing.jpg") fixed;
@@ -295,12 +296,11 @@ margin-bottom: 70px;
 /* Schedule cards */
 
 .card {
-margin: 0 auto;
-float: none;
-margin-bottom: 80px;
-margin-top: 30px;
-
-border-width: 0px;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    border-width: 0px;
 }
 
 .card-body {
@@ -310,12 +310,13 @@ border-width: 0px;
     color: #fff;
 }
 
+
 /* About Us */
 
 .contactform {
- width: 90%;
- padding-left: 130px;
- margin-bottom: 30px;
+    width: 90%;
+    padding-left: 130px;
+    margin-bottom: 30px;
 }
 
 .address {
@@ -326,6 +327,4 @@ border-width: 0px;
 
 .modal-form {
     width: 1400px;
-
-    
 }

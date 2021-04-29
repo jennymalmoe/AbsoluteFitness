@@ -9,7 +9,7 @@ This website is created to brand a fitness studio "Absolute Fitness" (referred t
 Since many trainingstudios, due to Covid-19, have had a hard time keeping and attracting new members, this studio can stand out by offering remote classes and a covid-safe workout studio. 
 Also many women nowadays have a hard time finding time for exercise, this kind of training matches their needs as well.  
 
-![site on different devices](https://camo.githubusercontent.com/5d9c9aee8b78b1db6c13f974c11c89520c607c59153919e09480eb58fd0cc2ec/68747470733a2f2f692e6962622e636f2f54597654587a312f4578616d706c652d43492e706e67)
+![site on different devices](assets/images/mock_up.png)
 
 ## **UX**
 
@@ -103,7 +103,7 @@ You can then link in your README to the Github repository url for that file
 
 Mockup how the finished site looks on different screen sizes.
 
-![mock_up1](https://imgur.com/a/cOF9Rmg) 
+![mock_up1](assets/images/mock_up.png) 
 
 ### Surface (most concrete, what is seen? Finally, at the level of the surface, we ask the question what will the product actually look like?
 Graphics/Mockups/Color
@@ -120,15 +120,15 @@ In other words, what will the final product look and feel like?)
 
 **Color Scheme**
 
-I want the site to represent highend and feminine values, with a clear message, and offer. The colors are feminine, warm, inviting, encouraging, and modern. Characteristics that attract women. 
+I want the site to represent highend and feminine values, with a clear message, and offer. The colors are soft, warm, inviting, encouraging, and modern. Characteristics that attract women. I added some accent colors (yellow and turqoise) that are used for emphasis my color scheme. These accent colors are bold and vivid and are used spairingly to create an eye catcing moment (used on call to actions buttons foremost). 
 
-![color_scheme](https://i.imgur.com/3AA6FPC.png)
+![color_scheme](assets/images/color_scheme.png) 
 
 **Typography**
 The Roboto font is the main font used throughout the site with Sans-serif as the fallback font. Roboto was developed to balance content density and reading comfort and is pretty subtle, it doesn´t take any attention away from the content.
 
 **Imagery**
-The homepage image is striking and modern. All images is of women bla bla.
+The homepage image is striking and modern. All images is of women in modern and positive environment. 
 
 **Responsive design**
 
