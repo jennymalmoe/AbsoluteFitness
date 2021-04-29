@@ -134,7 +134,7 @@ color: #fff;
 
 .reasons-container {
 text-align: center;
-margin-bottom: 80px;
+margin-bottom: 70px;
 }
 
 
@@ -205,6 +205,11 @@ margin-bottom: 80px;
     border-color: #ffc40f;
 }
 
+.btn-contact {
+    margin-left: 920px;
+    margin-bottom: 80px;
+    width: 300px;
+}
 
 /* Modal */
 
@@ -265,6 +270,8 @@ margin-bottom: 80px;
 .membership {
     text-align: center;
     margin-top: 2%;
+    text-transform: uppercase;
+    margin-bottom: 30px;
 }
 
 .tablecenter {
@@ -295,6 +302,7 @@ margin-bottom: 80px;
 margin: 0 auto;
 float: none;
 margin-bottom: 80px;
+margin-top: 30px;
 
 border-width: 0px;
 }
@@ -304,4 +312,12 @@ border-width: 0px;
 }
 .card-text {
     color: #fff;
+}
+
+/* About Us */
+
+.contactform {
+ width: 90%;
+ padding-left: 130px;
+ margin-bottom: 30px;
 }
