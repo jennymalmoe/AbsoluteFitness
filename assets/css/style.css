@@ -1,5 +1,4 @@
 /* General */
-
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #EDC4B3;
@@ -19,9 +18,7 @@ body {
     }
 }
 
-
 /* Navbar */
-
 .navbar {
     background-color: #C38E70;
 }
@@ -61,9 +58,7 @@ body {
     color: #fff;
 }
 
-
 /* Alert */
-
 .alert {
     font-size: 13px;
     border-radius: 0;
@@ -78,10 +73,7 @@ body {
     margin-left: auto;
 }
 
-
-
 /* Call out */
-
 .callout-container {
     background: url("../images/girl.png") no-repeat top left fixed; 
     -webkit-background-size: cover;
@@ -125,9 +117,7 @@ body {
     font-size: 20px;
 }
 
-
 /* Jumbotron */
-
 .jumbotron-header {
     color: black;
     font-weight: bold;
@@ -145,18 +135,14 @@ body {
     color: rgb(253, 253, 253);
 }
 
-
 /* Usp */
-
 .usp-container {
     text-align: center;
     margin-bottom: 70px;
     margin-top: 30px;
 }
 
-
 /* Reasons */
-
 .reasons-container {
     text-align: center;
     margin-bottom: 70px;
@@ -169,16 +155,13 @@ body {
     margin-top: 30px;
 }
 
-
 /* Footer */
-
 #footer {
     background-color:#C38E70;
     color: #fff;
     border-top: 60px;
     border-bottom: 60px;
 }
-
 
 .social-links {
     margin-bottom: 25px;
@@ -203,6 +186,7 @@ body {
 .social-links li a i:hover {
     background: #EDC4B3;
 }
+
 .contact-details {
     color: #fff;
     font-weight: bold;
@@ -211,11 +195,10 @@ body {
 
 .copy {
     font-size: 12px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 /* Buttons */
-
 .btn-cta {
     font-weight: bold;
     width: 300px;
@@ -247,10 +230,7 @@ body {
     border-color: #ffc40f;
 }
 
-
-
 /* Modal */
-
 .modal-header{
     background-color: #C38E70;
 }
@@ -281,7 +261,6 @@ body {
 }
 
 /* Classes img */
-
 .calloutclasses-container {
     background: url("../images/boxing.jpg") fixed;
     height: 100vh;
@@ -297,7 +276,6 @@ body {
      position: relative;
 }
 
-
 @media (min-width: 473px) {
     .jumbotron-classesheader {
         color: #fff;
@@ -306,8 +284,12 @@ body {
         margin-top: 150px;
 }
 }
-/* Membership */
 
+.classpres {
+    margin-top: 40px;
+}
+
+/* Membership */
 .membership {
     text-align: center;
     margin-top: 5%;
@@ -318,7 +300,6 @@ body {
 .mtext {
     margin-top: 50px;
 }
-
 
 .table {
     width: 80%;
@@ -348,7 +329,6 @@ body {
 }
 
 /* Schedule cards */
-
 .card {
     margin: 0 auto;
     float: none;
@@ -360,13 +340,12 @@ body {
 .card-body {
     background-color: #C38E70;
 }
+
 .card-text {
     color: #fff;
 }
 
-
 /* About Us */
-
 #exampleFormControlInput1 {
     width: 50%;
 }
