@@ -18,7 +18,7 @@
 
 <!--Nav-->
 
-        <nav class="navbar navbar-expand-sm">
+        <nav class="navbar navbar-expand-sm fixed-top">
             <a href="index.html" class="navbar-brand">ABSOLUTE FITNESS</a>
 
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,8 +75,11 @@
 
 
 <!--Contact form-->
-
-
+<section id="contact">
+<div class="container">
+    <div class="row d-flex justify-content-center pl-0">
+<div class="col-12 col-6 padding margin">
+    <form onsubmit="return sendMail(this);" id="contactForm">
 <div class="mb-3">
   <label for="exampleFormControlInput1" class="form-label">Email address</label>
   <input required type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
@@ -85,7 +88,11 @@
   <label for="exampleFormControlTextarea1" class="form-label">Comments and Questions</label>
   <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message" rows="5"></textarea>
 </div>
-
+</form>
+</div>
+</div>
+</div>
+</section>
 
 <div class="text-center">
     <p><button class="btn btn-cta btn-lg shadow-lg p-3 mb-5 rounded" data-toggle="modal" data-target="#startfreetrialmodal">SEND</button></p>
