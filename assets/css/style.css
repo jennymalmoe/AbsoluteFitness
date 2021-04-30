@@ -155,6 +155,106 @@ body {
     margin-top: 30px;
 }
 
+/* Classes img */
+.calloutclasses-container {
+    background: url("../images/boxing.jpg") fixed;
+    height: 100vh;
+    background-repeat: no-repeat;
+     background-position-x: center;
+     background-position-y: center;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     display: flex;
+     justify-content: left;
+     position: relative;
+}
+
+@media (min-width: 473px) {
+    .jumbotron-classesheader {
+        color: #fff;
+        font-size: 100px;
+        font-weight: bold;
+        margin-top: 150px;
+}
+}
+
+.classpres {
+    margin-top: 40px;
+}
+
+/* Membership */
+.membership {
+    text-align: center;
+    margin-top: 5%;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.mtext {
+    margin-top: 50px;
+}
+
+.table {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    display: block;
+}
+
+.carousel {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 8%;
+    margin-top: 3%;
+}
+
+.uppercase {
+    margin-top: 30px;
+}
+
+/* Schedule cards */
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    border-width: 0px;
+}
+
+.card-body {
+    background-color: #C38E70;
+}
+
+.card-text {
+    color: #fff;
+}
+
+/* About Us */
+#exampleFormControlInput1 {
+    width: 50%;
+}
+
+.address {
+    color: #774936;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.contact-container {
+    margin-bottom: 10px;
+}
+
 /* Footer */
 #footer {
     background-color:#C38E70;
@@ -259,104 +359,3 @@ body {
 .claim-btn:active:focus {
     background: #EDC4B3;
 }
-
-/* Classes img */
-.calloutclasses-container {
-    background: url("../images/boxing.jpg") fixed;
-    height: 100vh;
-    background-repeat: no-repeat;
-     background-position-x: center;
-     background-position-y: center;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover;
-     display: flex;
-     justify-content: left;
-     position: relative;
-}
-
-@media (min-width: 473px) {
-    .jumbotron-classesheader {
-        color: #fff;
-        font-size: 100px;
-        font-weight: bold;
-        margin-top: 150px;
-}
-}
-
-.classpres {
-    margin-top: 40px;
-}
-
-/* Membership */
-.membership {
-    text-align: center;
-    margin-top: 5%;
-    text-transform: uppercase;
-    margin-bottom: 50px;
-}
-
-.mtext {
-    margin-top: 50px;
-}
-
-.table {
-    width: 80%;
-    margin-left: 10%;
-    margin-bottom: 5%;
-}
-
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 5%;
-    margin-top: 2%;
-    display: block;
-}
-
-.carousel {
-    width: 50%;
-    margin-left: 25%;
-    margin-bottom: 8%;
-    margin-top: 3%;
-}
-
-.uppercase {
-    margin-top: 30px;
-}
-
-/* Schedule cards */
-.card {
-    margin: 0 auto;
-    float: none;
-    margin-bottom: 80px;
-    margin-top: 30px;
-    border-width: 0px;
-}
-
-.card-body {
-    background-color: #C38E70;
-}
-
-.card-text {
-    color: #fff;
-}
-
-/* About Us */
-#exampleFormControlInput1 {
-    width: 50%;
-}
-
-.address {
-    color: #774936;
-    margin-bottom: 50px;
-    text-align: center;
-}
-
-.contact-container {
-    margin-bottom: 10px;
-}
-
