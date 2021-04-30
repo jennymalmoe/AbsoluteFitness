@@ -5,6 +5,20 @@ body {
     background-color: #EDC4B3;
 }
 
+.row {
+    margin: 0;
+}
+
+@media (max-width: 472px) {
+    .jumbotron-classesheader {
+        font-size: 75px;
+        color: #fff;
+        font-weight: bold;
+        margin-top: 150px;
+        text-shadow: 2px 2px #E6B8A2;
+    }
+}
+
 
 /* Navbar */
 
@@ -55,7 +69,9 @@ body {
     border-radius: 0;
     margin-bottom: 0;
 }
-   
+
+
+
 
 /* Call out */
 
@@ -119,7 +135,7 @@ body {
 
 .jumbotron small {
     font-size: 90%;
-    color: #fff;
+    color: rgb(253, 253, 253);
 }
 
 
@@ -127,6 +143,8 @@ body {
 
 .usp-container {
     text-align: center;
+    margin-bottom: 70px;
+    margin-top: 30px;
 }
 
 
@@ -135,6 +153,13 @@ body {
 .reasons-container {
     text-align: center;
     margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+.reasons-container2 {
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 30px;
 }
 
 
@@ -146,6 +171,7 @@ body {
     border-top: 60px;
     border-bottom: 60px;
 }
+
 
 .social-links {
     margin-bottom: 25px;
@@ -258,23 +284,30 @@ body {
      position: relative;
 }
 
-.jumbotron-classesheader {
-    color: #fff;
-    font-size: 100px;
-    font-weight: bold;
-    margin-top: 150px;
-}
 
+@media (min-width: 473px) {
+    .jumbotron-classesheader {
+        color: #fff;
+        font-size: 100px;
+        font-weight: bold;
+        margin-top: 150px;
+}
+}
 /* Membership */
 
 .membership {
     text-align: center;
-    margin-top: 2%;
+    margin-top: 5%;
     text-transform: uppercase;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
-.tablecenter {
+.mtext {
+    margin-top: 50px;
+}
+
+
+.table {
     width: 80%;
     margin-left: 10%;
     margin-bottom: 5%;
@@ -286,15 +319,20 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 5%;
+    margin-top: 2%;
     display: block;
 }
 
 .carousel {
     width: 50%;
     margin-left: 25%;
-    margin-bottom: 5%;
+    margin-bottom: 8%;
+    margin-top: 3%;
 }
 
+.uppercase {
+    margin-top: 30px;
+}
 
 /* Schedule cards */
 
@@ -325,3 +363,8 @@ body {
     margin-bottom: 50px;
     text-align: center;
 }
+
+.contact-container {
+    margin-bottom: 10px;
+}
+

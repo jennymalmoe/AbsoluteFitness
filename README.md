@@ -82,9 +82,9 @@ The information is briefly presented, there isn't not too much information, just
 
 **Wireframes:** 
 
-* [Mobile](https://github.com/jennymalmoe/Milestone-Project-1/tree/master/assets/docs/wireframes_mobile)
-* [Tablet](https://github.com/jennymalmoe/Milestone-Project-1/tree/master/assets/docs/wireframes_tablet)
-* [Desktop](https://github.com/jennymalmoe/Milestone-Project-1/tree/master/assets/docs/wireframes_desktop)
+* [Mobile](assets/docs/wireframes_mobile.pdf)
+* [Tablet](assets/docs/wireframes_tablet.pdf)
+* [Desktop](assets/docs/wireframes_desktop.pdf)
 
 
 ### Surface 
@@ -92,7 +92,7 @@ The information is briefly presented, there isn't not too much information, just
 Design Choices
 
 **Color Scheme:** 
-The site represents highend and feminine values, with a clear message, and offer. The colors are soft, warm, inviting, encouraging, and modern. Characteristics that attract women. I added some accent colors (bright yellow and turquoise) that are used for emphasis my color scheme. These accent colors are bold and vivid and are used spairingly to create an eye catcing moment (used on call to actions buttons foremost). 
+The site represents highend and feminine values, with a clear message, and offer. The colors are soft, warm, inviting, encouraging, and modern. Characteristics that attract women. I added some accent colors (bright yellow and turquoise) that are used for emphasis my color scheme. These accent colors are bold and vivid and are used spairingly to create an eye catcing moment (used on call to actions buttons and alert bar foremost). 
 
 ![color_scheme](assets/images/color_scheme.png) 
 
@@ -108,35 +108,30 @@ Icons used at the first page to set the tone for the sites design approach.
 ## Technologies Used
 
 ### Languages
-* HTML5 - provides the basic structure
-* CSS3 - for styling
+* HTML5 - provides content and structure.
+* CSS3 - adds styling.
 
 ### Frameworks
 * [Bootstrap "v4.1.3"](https://getbootstrap.com) - used for responsiveness and templates.  
 
-Tools:
+Tools and editors:
 
 * [Git](https://git-scm.com/) - used for version control.
-* [Gitpod](https://www.gitpod.io/) - online IDE.
-* [GitHub](https://github.com/) -  hosting and version control.
+* [Gitpod](https://www.gitpod.io/) - used as IDE.
+* [GitHub](https://github.com/) - hosting and version control.
 * [Github Pages](https://pages.github.com/) - hosting service.
-* [Pixelmator](https://www.pixelmator.com/mac/) - used to make the logo and map image.
-* [DesignEvo](https://www.designevo.com/) - used to make the logo.
+* [Pixelmator](https://www.pixelmator.com/mac/) - used to make logo image and map image.
+* [DesignEvo](https://www.designevo.com/) - used to create logo image.
 * [Coolors](https://coolors.co/) - used to establish color scheme.
-* [Font Awsome](https://fontawesome.com/) - used for footer icons.
-* [Imgur](https://imgur.com/) - to create url for images.
-* [CSS-Tricks](https://css-tricks.com/) - used to the firstpage background image to cover the entire browser window.
- 
-
-Editors:
-
+* [Font Awsome](https://fontawesome.com/) - used for icons.
+* [Imgur](https://imgur.com/) - used to create url for images.
 * [Balsamiq](https://balsamiq.com/) - used to create the wireframes.
 * [Google Fonts](https://fonts.google.com/) - used to import fonts.
-* [W3C Markup Validator](https://validator.w3.org/) -
-* [W3C CSS Validator](https://validator.w3.org/) - 
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)  - used Lighthouse to check sites performance, accessibility, best practice and SEO. (and for browser) 
+* [W3C Markup Validator](https://validator.w3.org/) - used to check html validity.
+* [W3C CSS Validator](https://validator.w3.org/) - used to check css.
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)  - used Lighthouse to check sites performance and responsiveness. 
 * [Unsplash](https://unsplash.com/) - Images used were obtained from Unsplash.
-* [Am I Responsive](http://ami.responsivedesign.is/) - used for testing responsiveness of the site and the mock up image.
+* [Am I Responsive](http://ami.responsivedesign.is/) - used for testing responsiveness of the site and mock up image.
 * [Google Maps](https://www.google.se/maps) - used for map image.
 
 ## Features
