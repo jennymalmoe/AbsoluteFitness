@@ -70,6 +70,13 @@ body {
     margin-bottom: 0;
 }
 
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 
 
@@ -199,6 +206,12 @@ body {
 .contact-details {
     color: #fff;
     font-weight: bold;
+    margin-top: 20px;
+}
+
+.copy {
+    font-size: 12px;
+    margin-bottom: 40px;
 }
 
 /* Buttons */
