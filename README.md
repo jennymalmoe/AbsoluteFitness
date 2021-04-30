@@ -9,7 +9,7 @@ This website is created to brand a fitness studio "Absolute Fitness" (referred t
 Since many trainingstudios, due to Covid-19, have had a hard time keeping and attracting new members, this studio can stand out by offering remote classes and a covid-safe workout studio. 
 Also many women nowadays have a hard time finding time for exercise, this kind of training matches their needs as well.  
 
-![site on different devices](assets/images/mock_up.png)
+![site on different devices](assets/images/mockup.png)
 
 ## **UX**
 
@@ -149,13 +149,14 @@ Possibility to by membership online, to watch video samples of some of the class
 
 ## **Testing**
 
-* [W3C Markup Validator](https://validator.w3.org/) -
-* [W3C CSS Validator](https://validator.w3.org/) - 
+I've been using W3C Markup Validator, W3C CSS Validator, Lighthouse and Am I responsive to test ang check my project.
+screenshot of above
+I want to add "required" to my contact form in the "About Us" page (so I added "required" after <input and before <type>) but nothing happens. 
 
-Well, anything that you identify and can't fix, you need to document in the README. That will demonstrate that you've tested your app and are aware of the things that still need to be fixed.
-
+Different browser
 
 ## **Deployment**
+Explain every step of the deployment process in detail○Write it like an idiots guide to deploying your site, for any developer to follow
 
 ## **Credits**
 
