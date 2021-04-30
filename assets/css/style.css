@@ -170,7 +170,10 @@ body {
 .social-links li a i:hover {
     background: #EDC4B3;
 }
-
+a.contact-details {
+    color: #fff;
+    font-weight: bold;
+}
 
 /* Buttons */
 
@@ -313,10 +316,8 @@ body {
 
 /* About Us */
 
-.contactform {
-    width: 90%;
-    padding-left: 130px;
-    margin-bottom: 30px;
+#exampleFormControlInput1 {
+    width: 50%;
 }
 
 .address {
@@ -325,6 +326,6 @@ body {
     text-align: center;
 }
 
-.modal-form {
-    width: 1400px;
+#startfreetrialmodal {
+    
 }
