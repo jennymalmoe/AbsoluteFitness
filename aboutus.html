@@ -74,11 +74,14 @@
                 <form onsubmit="return sendMail(this);" id="contactForm">
                     <div class="mb-3">
                         <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                        <input required type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@ex.com">
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@ex.com" required>
                     </div>
                     <div class="mb-3">
                         <label for="exampleFormControlTextarea1" class="form-label">Comments and Questions</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message" rows="5"></textarea>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message" rows="5" required></textarea>
+                    </div>
+                    <div class="text-center">
+                        <p><button class="btn btn-cta btn-lg shadow-lg p-3 mb-5 rounded" type="submit" data-toggle="modal" data-target="#startfreetrialmodal">SEND</button></p>
                     </div>
                 </form>
             </div>
@@ -86,9 +89,7 @@
     </div>
 </section>
 
-<div class="text-center">
-    <p><button class="btn btn-cta btn-lg shadow-lg p-3 mb-5 rounded" data-toggle="modal" data-target="#startfreetrialmodal">SEND</button></p>
-</div>
+
 <!-- /contact form -->
 
 <!-- Map img -->
@@ -143,21 +144,6 @@
     </div>
 </footer>
 <!-- /footer -->
-
-<!-- Modal -->
-<div class="modal modal-form" tabindex="-1" role="dialog" id="startfreetrialmodal">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-          <div class="text-center">
-            <h5 class="modal-title" id="cta-title">We have received your request. We will be in touch soon!</h5>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- /modal -->
 
 <!--JavaScript links all the way down, so css loads first (popper first)--> 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

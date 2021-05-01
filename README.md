@@ -82,9 +82,9 @@ The information is briefly presented, there isn't not too much information, just
 
 **Wireframes:** 
 
-* [Mobile](assets/docs/wireframes_mobile.pdf)
-* [Tablet](assets/docs/wireframes_tablet.pdf)
-* [Desktop](assets/docs/wireframes_desktop.pdf)
+* [Mobile](https://github.com/jennymalmoe/MSP1.0/blob/master/assets/docs/wireframes_mobile.pdf)
+* [Tablet](https://github.com/jennymalmoe/MSP1.0/blob/master/assets/docs/wireframes_tablet.pdf)
+* [Desktop](https://github.com/jennymalmoe/MSP1.0/blob/master/assets/docs/wireframes_desktop%20.pdf)
 
 
 ### Surface 
@@ -138,17 +138,26 @@ Tools and editors:
 
 ### Existing features
 
-* CTA at homepage allows vistors to take part of a free trail offer by clicking the yellow button. This is possible by simular buttons at "Classes" page and "Membership" page.
-* Contact form in About Us page allows visitor to contact the studio by filling out the form. 
-* User can always return to the homepage by clicing the brand name in upper left corner. 
-* User can click read more button under the three text columns on homepage and thereby get to classespage and read more. 
-* User can cklick at the mailaddress in the footer and gets directed to mail. 
-* Users can click on the social media icons in the footer and get redirected to social media page in new tabs. 
-* User can click in the alert text ang get linked to mailservice.
-* User can click on the image carousel at the "Membership" page to see different images. 
-* User can send a question or requist by filling out the form in "About Us" page. 
+Home page:
+* CTA at homepage allows user to take part of a free trail offer by clicking the yellow button. 
+* User can click "Read more" button under the three text columns on homepage and thereby get to classespage and read more about what the studio offers. 
+* User can click the alert text about contact us (link obvios due to blue color of the text) ang get linked to mailservice.
 
+Classes page:
+* CTA under each classes description allows user to take part of a free trail offer by clicking "YEAH! I want a free trial" button.
 
+Membership page:
+* CTA at membersip page allows user to take part of a free trail offer by clicking the yellow button. 
+* User can browse carousel at the "Membership" page to see different images. 
+
+About Us page:
+* Contact form in about us page allows user to contact the studio by filling out the form.
+* User can send a question or message by filling out the form in "About Us" page.  
+
+General: 
+* User can always return to the homepage by clicking the brand name in upper left corner. 
+* User can click at the mailaddress in the footer and gets directed to mail service in new tab.
+* User can click on the social media icons in the footer and get redirected to social media page in new tabs. 
 
 
 ### Features left to implement
@@ -166,13 +175,28 @@ I've been using W3C Markup Validator, W3C CSS Validator, Lighthouse and Am I res
 ![Lighthouse_desktop.png](assets/images/Lighthouse_desktop.png) 
 ![mockup.png](assets/images/mockup.png)
 
-I wanted to add "required" to my contact form in the "About Us" page (I added "required" after input and before type) but nothing happens. 
-Manual testing: I've tested all links in the navbar, nav-brand, link in alert on homepage, all "Start Free Trial" buttons, "Read more" buttons, send button on "About Us" page, the carousel images, the mailaddress in the footer, social media links in footer. 
-Different browsers
-Buggar
+I've been testing site on different browsers, Chrome, Safari and on differnt devices. 
+Bugs: I had a problem (throughout the project) with overlay and margins left and right due to using Bootstrap (I later understood). 
 
 ## **Deployment**
-Explain every step of the deployment process in detail○Write it like an idiots guide to deploying your site, for any developer to follow
+
+This project is deployed using GitHub Pages. This is how I deployed my GitHub Repository via GitHub Pages:
+
+1. In GitHub select "Your Repositories".
+2. Select the repository you want to deploy.
+3. Click "Settings" in the top horizontal menu.
+4. Inside the "Settings" page scroll down and locate the GitHub Pages headline.
+5. Click the link; "Check it out here!".
+6. Make sure the branch is set to "Master" then click "Save".
+7. Just over the save button you will see that your site is ready to be published and a link will be presented: "Your site is published at https://....." 
+
+Forking the GitHub Repository:
+You can fork a GitHub Repository to make a copy of the original repository. You can make changes and review this copy without it affects the original repository. 
+Find the repository, click the fork button (top right corner, under your account), you now have a copy of the repository in your GitHub account. 
+
+Make a local clone: 
+Find the repository, click "Code" button, copy the link shown, in Gitpod, change the directory to the location you would like the cloned directory to be located, type "git clone" and paste the link you earlier copied, press enter. 
+
 
 ## **Credits**
 
