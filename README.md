@@ -138,8 +138,17 @@ Tools and editors:
 
 ### Existing features
 
-* CTA at homepage allows vistors to take part of a free trail offer by clicking the yellow button. 
-* Contact form in About Us page allows visitor to contact the studio by fill out the form. 
+* CTA at homepage allows vistors to take part of a free trail offer by clicking the yellow button. This is possible by simular buttons at "Classes" page and "Membership" page.
+* Contact form in About Us page allows visitor to contact the studio by filling out the form. 
+* User can always return to the homepage by clicing the brand name in upper left corner. 
+* User can click read more button under the three text columns on homepage and thereby get to classespage and read more. 
+* User can cklick at the mailaddress in the footer and gets directed to mail. 
+* Users can click on the social media icons in the footer and get redirected to social media page in new tabs. 
+* User can click in the alert text ang get linked to mailservice.
+* User can click on the image carousel at the "Membership" page to see different images. 
+* User can send a question or requist by filling out the form in "About Us" page. 
+
+
 
 
 ### Features left to implement
@@ -149,19 +158,25 @@ Possibility to by membership online, to watch video samples of some of the class
 
 ## **Testing**
 
-I've been using W3C Markup Validator, W3C CSS Validator, Lighthouse and Am I responsive to test ang check my project.
-screenshot of above
-I want to add "required" to my contact form in the "About Us" page (so I added "required" after <input and before <type>) but nothing happens. 
+I've been using W3C Markup Validator, W3C CSS Validator, Lighthouse and Am I responsive to test and check my project;
 
-Different browser
+![W3CValidator_html.png](assets/images/W3CValidator_html.png) 
+![W3CValidator_css.png](assets/images/W3CValidator_css.png) 
+![Lighthouse_mobile.png](assets/images/Lighthouse_mobile.png) 
+![Lighthouse_desktop.png](assets/images/Lighthouse_desktop.png) 
+![mockup.png](assets/images/mockup.png)
+
+I wanted to add "required" to my contact form in the "About Us" page (I added "required" after input and before type) but nothing happens. 
+Manual testing: I've tested all links in the navbar, nav-brand, link in alert on homepage, all "Start Free Trial" buttons, "Read more" buttons, send button on "About Us" page, the carousel images, the mailaddress in the footer, social media links in footer. 
+Different browsers
+Buggar
 
 ## **Deployment**
 Explain every step of the deployment process in detail○Write it like an idiots guide to deploying your site, for any developer to follow
 
 ## **Credits**
 
-
 * My mentor Adegbenga Adeye for helpfull feedback througout the project.
 * Fellow students on Slack for a helping hand when I've got stuck.
-* Google for help!
+* Google for help 24/7!
 
