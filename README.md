@@ -1,8 +1,8 @@
 # Absolute Fitness
 
-[View live website here!](#)
+[View live website here!](https://jennymalmoe.github.io/MSP1.0/)
 
-[View GitHub repository here!](#)
+[View GitHub repository here!](https://github.com/jennymalmoe/MSP1.0)
 
 This website is created to brand a fitness studio "Absolute Fitness" (referred to "The studio" in readme), to get new members and to keep existing members. The Absolute Fitness's USP is that they are differentiated from other studios because they offer foremost; women a more effective training method (short classes with extremely high-intensity training that produces results quickly), wich also can be used from home. 
 
@@ -51,6 +51,8 @@ Target audience: Women age 18-65 in the local area (as well as all over geograph
 Customer goals of the website is to get information about the studio and get a get a good idea of what it offers. Just as important is the feel the visitor gets about the sites/studios identity. It also allows the customer to take part of an offer. Lastly the costumer will see a professional and inspiring website with a mobile-first approach.
 
 ### Scope 
+
+Important features that matches the users need;
 
 * The site is designed to signal energy, high end and modern.  
 
@@ -129,7 +131,7 @@ Tools and editors:
 * [Google Fonts](https://fonts.google.com/) - used to import fonts.
 * [W3C Markup Validator](https://validator.w3.org/) - used to check html validity.
 * [W3C CSS Validator](https://validator.w3.org/) - used to check css.
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)  - used Lighthouse to check sites performance and responsiveness. 
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)  - used Lighthouse to check sites performance and the dev tool to check responsiveness. 
 * [Unsplash](https://unsplash.com/) - Images used were obtained from Unsplash.
 * [Am I Responsive](http://ami.responsivedesign.is/) - used for testing responsiveness of the site and mock up image.
 * [Google Maps](https://www.google.se/maps) - used for map image.
@@ -176,7 +178,8 @@ I've been using W3C Markup Validator, W3C CSS Validator, Lighthouse and Am I res
 ![mockup.png](assets/images/mockup.png)
 
 I've been testing site on different browsers, Chrome, Safari and on differnt devices. 
-Bugs: I had a problem (throughout the project) with overlay and margins left and right due to using Bootstrap (I later understood). 
+
+Bugs: I had a problem (throughout the project) with responsivness and overlay and margins left and right due to using Bootstrap (I later understood). 
 
 ## **Deployment**
 
