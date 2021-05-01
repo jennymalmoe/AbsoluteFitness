@@ -177,7 +177,7 @@ I've been using W3C Markup Validator, W3C CSS Validator, Lighthouse and Am I res
 ![Lighthouse_desktop.png](assets/images/Lighthouse_desktop.png) 
 ![mockup.png](assets/images/mockup.png)
 
-I've been testing site on different browsers, Chrome, Safari and on differnt devices. 
+I've been testing site (friend as well) on different browsers, Chrome, Safari and on differnt devices. 
 
 Bugs: I had a problem (throughout the project) with responsivness and overlay and margins left and right due to using Bootstrap (I later understood). 
 
