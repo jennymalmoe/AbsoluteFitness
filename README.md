@@ -1,6 +1,6 @@
 # Absolute Fitness
 
-[View live website here!](https://jennymalmoe.github.io/MSP1.0/)
+[View live website here!](https://jennymalmoe.github.io/AbsoluteFitness/)
 
 [View GitHub repository here!](https://github.com/jennymalmoe/MSP1.0)
 
